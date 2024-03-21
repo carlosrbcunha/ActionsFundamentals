@@ -1,6 +1,3 @@
-on:
-  repository_dispatch: [main]
-
 name: Hello, World!
 description: Greet someone and record the time
 author: GitHub Actions
